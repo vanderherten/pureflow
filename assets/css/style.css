@@ -310,6 +310,32 @@ body {
     padding: 0 20px;
 }
 
+/* SECTION COMMUNITY */
+
+.sec-community {
+    padding-bottom: 1rem;
+}
+
+/* Features */
+
+.sec-community__features-icon {
+    height: 1.2rem;
+    width: 1.2rem;
+    color: #252e2e;
+    border-radius: 50%;
+    background-color: #c8dede;
+    margin: 1rem;
+    padding: 1.4rem;
+}
+
+.sec-community__features-icon {
+    margin-top: 3rem;
+}
+
+.sec-community__features-icon:first-child {
+    margin-top: 0;
+}
+
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
@@ -413,6 +439,18 @@ body {
 
     .sec-intention__item-text {
         padding: 0 35px;
+    }
+
+    /* SECTION COMMUNITY */
+
+    /* Features */
+
+    .sec-community__features-container {
+        max-width: 600px;
+    }
+
+    .sec-community__features-text {
+        padding: 0 30px;
     }
 }
 
