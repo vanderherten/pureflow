@@ -282,6 +282,34 @@ body {
     height: 200px;
 }
 
+/* SECTION INTENTION */
+
+.sec-intention {
+    background-color: #f7f4ed;
+}
+
+.sec-intention__item-img {
+    height: 250px;
+    width: 90%;
+    border-radius: 4px;
+    filter: contrast(90%);
+}
+
+.sec-intention__item-img-3 {
+    width: 92%;
+    filter: grayscale(100%) contrast(90%);
+}
+
+.sec-intention__item-sub-title {
+    padding: 0.8rem 0;
+    font-size: 1rem;
+}
+
+.sec-intention__item-text {
+    text-align: left;
+    padding: 0 20px;
+}
+
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
@@ -371,5 +399,51 @@ body {
 
     .sec-journey__item-5 {
         order: -1;
+    }
+
+    /* SECTION INTENTION */
+
+    .sec-intention__items-container {
+        max-width: 600px;
+    }
+
+    .sec-intention__item-img {
+        height: 350px;
+    }
+
+    .sec-intention__item-text {
+        padding: 0 35px;
+    }
+}
+
+@media only screen and (min-width: 1290px) {
+    /* || HOMEPAGE */
+
+    /* SECTION INTENTION */
+
+    .sec-intention__title {
+        margin-bottom: 2rem;
+    }
+
+    .sec-intention__items-container {
+        max-width: 1255px;
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+
+    .sec-intention__item-container {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .sec-intention__item-container>* {
+        width: 50%;
+    }
+
+    .sec-intention__item-img {
+        height: 265px;
+        margin-top: 0.5rem;
     }
 }
