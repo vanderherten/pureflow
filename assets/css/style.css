@@ -177,11 +177,41 @@ body {
 
 /*   GLOBAL SECTION */
 
+.section {
+    text-align: center;
+    padding: 4rem 1rem;
+    padding-top: 6rem;
+}
+
+.section__title {
+    text-transform: uppercase;
+    font-family: 'Cardo', serif;
+    font-weight: 700;
+    font-size: 1.65rem;
+    margin-bottom: 5rem;
+}
+
+.section__items-container {
+    max-width: 25.625rem;
+    margin: 0 auto;
+}
+
 .section__img {
     background-size: 100%;
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.section__item {
+    margin: 3rem 0;
+    line-height: 1.6rem;
+}
+
+.section__item-title {
+    padding: 0.8rem 0;
+    text-transform: uppercase;
+    font-size: 1.1rem;
 }
 
 /* || HOME PAGE */
@@ -218,6 +248,40 @@ body {
 .sec-hero__line-break {
     border: 10px solid #9cc1c1;
 }
+
+/* SECTION JOURNEY  */
+
+.sec-journey__btn:link,
+.sec-journey__btn:visited {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 9px;
+    background-color: #f5d282;
+    color: inherit;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.sec-journey__btn:hover,
+.sec-journey__btn:active {
+    background-color: #e8c470;
+    color: #252e2e;
+    box-shadow: 0 0 0 0.1rem #9cc1c1;
+}
+
+.sec-journey__img {
+    display: none;
+    width: 200px;
+    height: 200px;
+}
+
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
@@ -258,11 +322,54 @@ body {
 }
 
 @media only screen and (min-width: 1027px) {
+    /* || WEB PAGES */
+
+    /* GOBAL SECTION */
+
+    .section__title {
+        font-size: 1.85rem;
+    }
+
     /* || HOME PAGE */
 
     /* SECTION HERO */
 
     .sec-hero__img {
         height: 875px;
+    }
+
+    /* SECTION JOURNEY */
+
+    .sec-journey__items-container {
+        max-width: 1255px;
+        display: flex;
+        align-items: flex-start;
+        gap: 3rem;
+        margin: 0 1rem;
+        margin-top: 60px;
+    }
+
+    .sec-journey__items {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex: 1 1 0;
+    }
+
+    .sec-journey__img {
+        display: inline-block;
+        filter: invert(20%) sepia(18%) saturate(439%) hue-rotate(131deg) brightness(94%) contrast(83%);
+    }
+
+    .sec-journey__arrow-icon-3 {
+        transform: rotate(-90deg);
+    }
+
+    .sec-journey__arrow-icon-4 {
+        transform: rotate(180deg);
+    }
+
+    .sec-journey__item-5 {
+        order: -1;
     }
 }
