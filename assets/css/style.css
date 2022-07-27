@@ -214,6 +214,74 @@ body {
     font-size: 1.1rem;
 }
 
+/* Section Form */
+
+.section__form-container {
+    margin: 5rem auto;
+    margin-bottom: 6rem;
+    min-width: 90%;
+    border-radius: 9px;
+    border: 1px solid #9cc1c1;
+    background-color: #c8dede;
+}
+
+.section__form {
+    padding: 2rem 0;
+}
+
+.section__form-title {
+    padding: 2rem 0;
+    text-transform: uppercase;
+    color: inherit;
+}
+
+.section__form-input {
+    width: 80%;
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: inherit;
+    color: inherit;
+    border: none;
+    border-radius: 9px;
+    margin-bottom: 1.5rem;
+    background-color: #f7f4ed;
+}
+
+.section__form-input::placeholder {
+    font-family: inherit;
+    background-color: #f7f4ed;
+}
+
+.section__form-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem #9cc1c1;
+}
+
+.section__form-btn {
+    display: inline-block;
+    width: 80%;
+    margin-bottom: 2rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 9px;
+    background-color: #f5d282;
+    color: inherit;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.section__form-btn:hover {
+    background-color: #e8c470;
+    color: #252e2e;
+    box-shadow: 0 0 0 0.2rem #9cc1c1;
+}
+
+
 /* || HOME PAGE */
 
 /* SECTION HERO */
@@ -336,6 +404,18 @@ body {
     margin-top: 0;
 }
 
+/* Newsletter */
+
+.sec-community__newsletter-title {
+    font-size: 1.2rem;
+}
+
+.sec-community__newsletter-sub-title {
+    padding-bottom: 3rem;
+    font-size: 1rem;
+    color: inherit;
+}
+
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
@@ -382,6 +462,25 @@ body {
 
     .section__title {
         font-size: 1.85rem;
+    }
+
+    /* Section Form */
+
+    .section__form-container {
+        max-width: 1255px;
+        margin-right: 1rem;
+        margin-left: 1rem;
+        display: flex;
+        flex-direction: row;
+        border: 6px solid #9cc1c1;
+    }
+
+    .section__form-container>* {
+        width: 50%;
+    }
+
+    .section__form {
+        border-left: 3px solid #9cc1c1;
     }
 
     /* || HOME PAGE */
@@ -451,6 +550,18 @@ body {
 
     .sec-community__features-text {
         padding: 0 30px;
+    }
+
+    /* Newsletter */
+
+    .sec-community__newsletter-img {
+        background-image: url(/assets/images/beach-yoga.jpg);
+        width: 50%;
+        border-right: 3px solid #9cc1c1;
+    }
+
+    .sec-community__newsletter-sub-title {
+        padding-bottom: 3rem;
     }
 }
 
