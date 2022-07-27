@@ -198,6 +198,26 @@ body {
     margin-top: 6rem;
 }
 
+.sec-hero__text {
+    text-align: center;
+    display: inline-block;
+    padding: 1.25rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.501);
+    font-family: 'Cardo', serif;
+    font-weight: 700;
+    color: inherit;
+}
+
+.sec-hero__line-break {
+    border: 10px solid #9cc1c1;
+}
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
