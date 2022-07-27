@@ -12,37 +12,48 @@
 </head>
 
 <body>
-    <!-- HEADER -->
-    <header class="header-nav">
-        <!-- NAVIGATION -->
-        <nav class="nav">
-            <!-- Nav Logo -->
-            <a class="nav__logo" href="index.html" aria-label="Logo">
-                <h1>Pureflow</h1>
-            </a>
-            <!-- Nav Menu -->
-            <ul role="list" aria-label="primary" class="nav__menu">
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="#">Classes</a>
-                </li>
-                <li>
-                    <a href="#">Contact</a>
-                </li>
-                <li>
-                    <a href="#">Free Trial</a>
-                </li>
-                <li>
-                    <a href="#">Newsletter</a>
-                </li>
-            </ul>
-            <!-- /Nav Menu -->
-        </nav>
-        <!-- /NAVIGATION -->
-    </header>
-    <!-- /HEADER -->
+    <!-- BODY CONTENT -->
+    <div class="wrapper">
+        <!-- HEADER -->
+        <header class="header-nav">
+            <!-- NAVIGATION -->
+            <nav class="nav">
+                <!-- Nav Logo -->
+                <a class="nav__logo" href="index.html" aria-label="Logo">
+                    <h1>Pureflow</h1>
+                </a>
+                <!-- Nav Menu -->
+                <ul role="list" aria-label="primary" class="nav__menu">
+                    <li>
+                        <a class="nav__menu-link" href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a class="nav__menu-link" href="#">Classes</a>
+                    </li>
+                    <li>
+                        <a class="nav__menu-link" href="#">Contact</a>
+                    </li>
+                    <li>
+                        <a class="nav__menu-link nav__menu-link-form" href="#">Free Trial</a>
+                    </li>
+                    <li>
+                        <a class="nav__menu-link nav__menu-link-form" href="#">Newsletter</a>
+                    </li>
+                </ul>
+                <!-- /Nav Menu -->
+                <!-- Nav Mobile Btn  -->
+                <button class="nav__mobile-btn" aria-label="Mobile navigation">
+                    <ion-icon class="nav__mobile-btn-icon" name="menu-outline" size="large"></ion-icon>
+                    <ion-icon class="nav__mobile-btn-icon" name="close-outline" size="large"></ion-icon>
+                </button>
+                <!-- /Nav Mobile Btn  -->
+            </nav>
+            <!-- /NAVIGATION -->
+        </header>
+        <!-- /HEADER -->
+    </div>
+    <!-- /BODY CONTENT -->
+
     <!-- ION-ICONS SCRIPT -->
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
