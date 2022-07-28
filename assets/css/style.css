@@ -134,6 +134,12 @@ body {
     border-bottom: 3px solid #f5d282;
 }
 
+.nav__menu-link--active {
+    color: inherit;
+    border-top: 3px solid #9cc1c1;
+    border-bottom: 3px solid #9cc1c1;
+}
+
 /* Nav Mobile Btn */
 
 .nav__mobile-btn {
