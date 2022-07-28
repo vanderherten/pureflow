@@ -194,6 +194,25 @@ body {
 
 /*  || WEB PAGES */
 
+/* GLOBAL HEADER */
+
+.header-main {
+    margin-top: 2.2rem;
+    background-color: #9cc1c1;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.header-main__title {
+    font-family: 'Cardo', serif;
+    font-weight: 400;
+    color: #252e2e;
+    text-transform: uppercase;
+    font-size: 2rem;
+    letter-spacing: 4px;
+}
+
 /*   GLOBAL SECTION */
 
 .section {
@@ -476,6 +495,12 @@ body {
 
 @media only screen and (min-width: 1027px) {
     /* || WEB PAGES */
+
+    /* GLOBAL HEADER */
+
+    .header-main__title {
+        font-size: 2.2rem;
+    }
 
     /* GOBAL SECTION */
 
