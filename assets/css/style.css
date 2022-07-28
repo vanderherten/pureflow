@@ -128,11 +128,6 @@ body {
     border-bottom: 3px solid #9cc1c1;
 }
 
-.nav__menu-link.nav__menu-link-form:link,
-.nav__menu-link.nav__menu-link-form:visited {
-    text-transform: capitalize;
-}
-
 .nav__menu-link.nav__menu-link-form:hover,
 .nav__menu-link.nav__menu-link-form:active {
     border-top: 3px solid #f5d282;
