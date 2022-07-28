@@ -319,7 +319,6 @@ body {
     box-shadow: 0 0 0 0.2rem #9cc1c1;
 }
 
-
 /* || HOME PAGE */
 
 /* SECTION HERO */
@@ -514,6 +513,16 @@ body {
     font-weight: 500;
 }
 
+/* SECTION PRICES */
+
+.sec-prices {
+    background-color: #f7f4ed;
+}
+
+.sec-prices__trial-title {
+    font-size: 1.2rem;
+}
+
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
   ==========================*/
@@ -681,6 +690,17 @@ body {
 
     .sec-community__newsletter-sub-title {
         padding-bottom: 3rem;
+    }
+
+    /* || CLASSES PAGE */
+
+    /* SECTION PRICES */
+
+    .sec-prices__trial-img {
+        background-image: url(/assets/images/yoga-mat.jpg);
+        filter: contrast(70%);
+        width: 50%;
+        border-right: 3px solid #9cc1c1;
     }
 }
 

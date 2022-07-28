@@ -116,20 +116,23 @@
             </section>
             <!-- /SECTION SCHEDULE -->
             <!-- SECTION PRICES -->
-            <section>
-                <h3>Prices</h3>
+            <section class="section sec-prices">
+                <h3 class="section__title">Prices</h3>
                 <!-- Section Prices Free Trial -->
-                <div>
-                    <div role="img" aria-label="A woman sitting on a bench holding a yoga mat"></div>
-                    <div>
-                        <h4>
+                <div class="section__items-container section__form-container">
+                    <div class="sec-prices__trial-img section__img" role="img"
+                        aria-label="A woman sitting on a bench holding a yoga mat"></div>
+                    <div class="section__form">
+                        <h4 class="sec-prices__trial-title section__form-title">
                             Sign Up for a free trial week
                         </h4>
                         <form method="POST" action="https://formdump.codeinstitute.net/">
-                            <input type="name" id="name" name="name" placeholder="Name" required />
-                            <input type="email" id="email" name="email" placeholder="Email" required />
+                            <input class="section__form-input" type="name" id="name" name="name" placeholder="Name"
+                                required />
+                            <input class="section__form-input" type="email" id="email" name="email" placeholder="Email"
+                                required />
                             <br />
-                            <input type="submit" value="SIGN UP" />
+                            <input type="submit" value="SIGN UP" class="section__form-btn" />
                         </form>
                     </div>
                 </div>
