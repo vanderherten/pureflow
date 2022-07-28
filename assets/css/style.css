@@ -523,6 +523,59 @@ body {
     font-size: 1.2rem;
 }
 
+.sec-prices__plans-container {
+    background-color: #fff;
+    padding: 3rem auto;
+}
+
+.sec-prices__items {
+    padding: 60px 0;
+}
+
+.sec-prices__items-container-inner {
+    height: 780px;
+}
+
+.sec-prices__item-container {
+    background-color: #f7f4ed;
+    height: 370px;
+}
+
+.sec-prices__item-sub-title {
+    font-size: 1.2rem;
+    padding-bottom: 0;
+}
+
+.sec-prices__item-price {
+    padding: 2.8rem 0;
+    font-size: 1.5rem;
+}
+
+.sec-prices__item-price span {
+    font-size: 1.2rem;
+}
+
+.sec-prices__item-btn {
+    margin-top: 1rem 0;
+    background-color: #f5d282;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color: inherit;
+    font-family: inherit;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.sec-prices__item-btn:hover {
+    background-color: #e8c470;
+    color: #252e2e;
+    box-shadow: 0 0 0 0.1rem #9cc1c1;
+}
+
+
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
   ==========================*/
@@ -574,6 +627,12 @@ body {
     .sec-classes__item-container {
         margin-left: 2rem;
         margin-right: 2rem;
+    }
+
+    /* SECTION PRICES */
+
+    .sec-prices__items {
+        padding: 150px 0;
     }
 }
 
