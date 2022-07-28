@@ -909,7 +909,7 @@ body {
     /* Newsletter */
 
     .sec-community__newsletter-img {
-        background-image: url(/assets/images/beach-yoga.jpg);
+        background-image: url('../images/beach-yoga.jpg');
         width: 50%;
         border-right: 3px solid #9cc1c1;
     }
@@ -923,7 +923,7 @@ body {
     /* SECTION PRICES */
 
     .sec-prices__trial-img {
-        background-image: url(/assets/images/yoga-mat.jpg);
+        background-image: url('../images/yoga-mat.jpg');
         filter: contrast(70%);
         width: 50%;
         border-right: 3px solid #9cc1c1;
@@ -973,7 +973,7 @@ body {
     }
 
     .sec-questions__img {
-        background-image: url(/assets/images/warrior-pose.jpg);
+        background-image: url('../images/warrior-pose.jpg');
         width: 50%;
         border-right: 3px solid #9cc1c1;
         filter: contrast(90%);
