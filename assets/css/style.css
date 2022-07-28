@@ -172,6 +172,26 @@ body {
     display: none;
 }
 
+/* FOOTER */
+
+.footer {
+    width: 100%;
+    padding: 2rem 1rem;
+    border-top: 2px solid #9cc1c1;
+}
+
+.footer__social-links {
+    display: flex;
+    justify-content: space-between;
+    max-width: 300px;
+    margin: 0 auto;
+    list-style-type: none;
+}
+
+.footer__social-link {
+    color: #4a5c5c;
+}
+
 
 /*  || WEB PAGES */
 
