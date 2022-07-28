@@ -454,6 +454,65 @@ body {
     color: inherit;
 }
 
+/* || CLASSES PAGE */
+
+/* GLOBAL CLASSES */
+
+.sec-classes__items-container {
+    background-color: #f7f4ed;
+    margin: 5rem auto;
+    margin-bottom: 6rem;
+    min-width: 90%;
+    border-radius: 9px;
+}
+
+.sec-classes__items-container-1 {
+    margin-bottom: 4rem;
+}
+
+.sec-classes__items-container-2 {
+    margin-top: 4rem;
+}
+
+.sec-classes__items {
+    padding: 4rem 0;
+    line-height: 1.6rem;
+}
+
+.sec-classes__items-title {
+    padding-bottom: 2rem;
+    font-size: 1.3rem;
+}
+
+.sec-classes__items-container-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 450px;
+}
+
+.sec-classes__item-container {
+    width: 220px;
+    height: 200px;
+    border: 2px solid #9cc1c1;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.sec-classes__item-sub-title {
+    padding: 0.8rem 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: inherit;
+}
+
+.sec-classes__item-text {
+    font-weight: 500;
+}
 
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
@@ -491,6 +550,22 @@ body {
         display: none;
     }
 
+    /* || CLASSES PAGE */
+
+    /* SECTION GLOBAL CLASSES */
+
+    .sec-classes__items-container-inner {
+        flex-direction: row;
+        height: 200px;
+        width: 700px;
+        margin: 0 auto;
+        justify-content: space-between;
+    }
+
+    .sec-classes__item-container {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
 }
 
 @media only screen and (min-width: 1027px) {
