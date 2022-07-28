@@ -630,9 +630,89 @@ body {
     transform: translateY(6px);
 }
 
+/* || CONTACT PAGE */
+
+/* GLOBAL CONTACT */
+
+.sec-contact__form-title {
+    margin-bottom: 0rem;
+    padding-top: 2rem;
+    font-size: 1.85rem;
+}
+
+/* SECTION STUDIO */
+
+.sec-studio__container {
+    background-color: #f7f4ed;
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    border: 3px solid #9cc1c1;
+}
+
+.sec-studio__container>* {
+    height: 50%;
+}
+
+.sec-studio__form {
+    border-bottom: 1.5px solid #9cc1c1;
+}
+
+.sec-studio__items-1 {
+    padding-bottom: 2rem;
+}
+
+.sec-studio__items-2 {
+    padding-bottom: 2.5rem;
+}
+
+.sec-studio__sub-title {
+    font-size: 1.4rem;
+    padding-top: 1rem;
+    font-weight: 500;
+    padding-left: 0.5rem;
+    text-align: left;
+}
+
+.sec-studio__text {
+    line-height: 1.6rem;
+    text-align: left;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.sec-studio__item {
+    display: flex;
+    gap: 1.5rem;
+    padding-left: 0.5rem;
+}
+
+.sec-studio__item-1 {
+    padding-bottom: 0.8rem;
+}
+
+.sec-studio__icon {
+    width: 1.4rem;
+    height: 1.4rem;
+    color: #9cc1c1;
+}
+
+.sec-studio__img {
+    filter: grayscale(30%);
+    border-top: 2px solid #9cc1c1;
+}
+
 /*======================== 
   || MEDIA QUERY BREAKPOINTS
   ==========================*/
+
+@media only screen and (min-width: 350px) {
+
+    .sec-studio__sub-title,
+    .sec-studio__item {
+        padding-left: 5rem;
+    }
+}
 
 @media only screen and (min-width: 750px) {
     /* || HOME PAGE */
@@ -815,6 +895,33 @@ body {
         width: 50%;
         border-right: 3px solid #9cc1c1;
     }
+
+    /* || CONTACT PAGE */
+
+    /* SECTION STUDIO */
+
+    .sec-studio__container {
+        background-color: #f7f4ed;
+        display: flex;
+        flex-direction: row;
+        height: auto;
+    }
+
+    .sec-studio__container>* {
+        height: 50%;
+    }
+
+    .sec-studio__form {
+        border-left: none;
+        border-right: 3px solid #9cc1c1;
+    }
+
+    .sec-studio__img {
+        border-left: 3px solid #9cc1c1;
+        height: 530px;
+        border-top: none;
+    }
+
 }
 
 @media only screen and (min-width: 1290px) {
