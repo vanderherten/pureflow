@@ -495,7 +495,7 @@ body {
 }
 
 .sec-classes__item-container {
-    width: 220px;
+    width: 280px;
     height: 200px;
     border: 2px solid #9cc1c1;
     border-radius: 9px;
@@ -958,6 +958,12 @@ body {
     }
 
     /* || CLASSES PAGE */
+
+    /* SECTION GLOBAL CLASSES */
+
+    .sec-classes__items-container-inner {
+        width: 790px;
+    }
 
     /* SECTION PRICES */
 
