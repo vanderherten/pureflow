@@ -121,6 +121,8 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
     color: #4a5c5c;
+    border-top: 3px solid #FFF;
+    border-bottom: 3px solid #FFF;
 }
 
 .nav__menu-link:hover,
@@ -138,6 +140,12 @@ body {
 
 .nav__menu-link--active {
     color: inherit;
+    border-top: 3px solid #9cc1c1;
+    border-bottom: 3px solid #9cc1c1;
+}
+
+.nav__menu-link--active:link,
+.nav__menu-link--active:visited {
     border-top: 3px solid #9cc1c1;
     border-bottom: 3px solid #9cc1c1;
 }
