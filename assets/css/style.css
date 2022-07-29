@@ -586,10 +586,11 @@ body {
 .sec-practice__item {
     background-color: #f7f4ed;
     padding: 3rem;
-    padding-left: 5rem;
+    padding-left: 1.7rem;
+    padding-right: 0rem;
     padding-bottom: 3.5rem;
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
     border-radius: 9px;
 }
 
@@ -741,12 +742,30 @@ body {
   ==========================*/
 
 @media only screen and (min-width: 350px) {
+    /* || CONTACT PAGE */
+
+    /* SECTION STUDIO */
 
     .sec-studio__sub-title,
     .sec-studio__item {
         padding-left: 5rem;
     }
 }
+
+@media only screen and (min-width: 650px) {
+    /* || CLASSES PAGE */
+
+    /* SECTION PRACTICE */
+
+    .sec-practice__item {
+        padding: 3rem;
+        padding-left: 5rem;
+        padding-bottom: 3.5rem;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+    }
+}
+
 
 @media only screen and (min-width: 750px) {
     /* || HOME PAGE */
