@@ -111,6 +111,10 @@ body {
 
 /* Nav Menu  */
 
+.nav--open .nav__menu-link-1 {
+    margin-top: 4rem;
+}
+
 .nav__menu-link:link,
 .nav__menu-link:visited {
     display: inline-block;
