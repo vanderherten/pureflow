@@ -218,8 +218,8 @@ body {
 
 .section {
     text-align: center;
-    padding: 4rem 1rem;
-    padding-top: 6rem;
+    padding: 1rem 1rem;
+    padding-top: 4rem;
 }
 
 .section__title {
@@ -227,7 +227,7 @@ body {
     font-family: 'Cardo', serif;
     font-weight: 700;
     font-size: 1.65rem;
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
 }
 
 .section__items-container {
@@ -256,8 +256,8 @@ body {
 /* Section Form */
 
 .section__form-container {
-    margin: 5rem auto;
-    margin-bottom: 6rem;
+    margin: 4rem auto;
+    margin-bottom: 5rem;
     min-width: 90%;
     border-radius: 9px;
     border: 1px solid #9cc1c1;
@@ -419,7 +419,7 @@ body {
 /* SECTION COMMUNITY */
 
 .sec-community {
-    padding-bottom: 1rem;
+    padding-bottom: 0rem;
 }
 
 /* Features */
@@ -460,8 +460,8 @@ body {
 
 .sec-classes__items-container {
     background-color: #f7f4ed;
-    margin: 5rem auto;
-    margin-bottom: 6rem;
+    margin: 4rem auto;
+    margin-bottom: 4.5rem;
     min-width: 90%;
     border-radius: 9px;
 }
@@ -512,6 +512,12 @@ body {
 
 .sec-classes__item-text {
     font-weight: 500;
+}
+
+/* SECTION SCHEDULE */
+
+.sec-schedule {
+    padding-bottom: 0;
 }
 
 /* SECTION PRICES */
@@ -581,6 +587,7 @@ body {
 .sec-practice__items-container {
     max-width: 700px;
     margin: 0 auto;
+    margin-bottom: 4rem;
 }
 
 .sec-practice__item {
@@ -883,7 +890,7 @@ body {
         align-items: flex-start;
         gap: 3rem;
         margin: 0 1rem;
-        margin-top: 60px;
+        margin-top: 3rem;
     }
 
     .sec-journey__items {
