@@ -64,7 +64,13 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
  ![](assets/images-readme/footer.png)
 
- 
+ - **Classes Page**
+
+    - The classes page features a header clearly displaying the current page. The header is the same color as the Hero Image's bottom border, to create a uniform design throughout the site. 
+    - The user will be able to locate information on the studio's schedule and Pureflow's prices. There is also information provided on the type of classes Traditional Ashtanga yoga provides. Lastly the page displays info on what to bring to practice and what to consider when coming to practice. 
+
+![](assets/images-readme/header-classes.png)
+
 
 
 
