@@ -111,6 +111,15 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/studio.png)
 
+- **Questions Section**
+
+    - The Questions section gives the user the opportunity to have an easy user experience, by providing a form where the user can ask any questions. 
+    - The form intentionally omitted the subject input, as to create less friction for the user filling out the form. One less thing to think about and do, helps in having a great user experience. 
+    - The yellow designed button provides a visually clear action point. 
+    - The form's accompanying image was designed with a large question mark that clearly and immediately signifies the form's purpose. It was designed largly to stand out, but with the same color of the border to maintain a soft cohesive visual display. 
+
+![](assets/images-readme/questions.png)
+
  
 
 
