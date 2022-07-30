@@ -79,6 +79,14 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/schedule.png)
 
+- **Prices Section**
+
+    - The Prices section features the same clear title design, to be easily located by the user.
+    - This section firstly displays the 'Free Trial Week Sign Up' form. Its colors are soft and inviting, while also standing out from the page to promote an action on the user's end. It is joined by an image of a yogini about to join a yoga class.
+    - Underneath the form the two price options are displayed, with a clear consise description and yellow sign up button.
+
+![](assets/images-readme/prices.png)
+
 
 
 
