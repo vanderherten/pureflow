@@ -29,6 +29,17 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/landing-page.png)
 
+- **Journey Section**
+
+    - The Journey section invites the user to start their yoga journey today, followed by the steps in the yoga journey process. As a first step, Pureflow invites and encourages the user to sign up for a free trial week, by using a large warmish tone yellow button that clearly stands out from its surroundings and gives a friendly inviting feel.
+    - This section aims to communicate to the user what healing and enriching process one can expect from an Ashtanga yoga practice journey. 
+    - The direction of the journey is signified by using an arrow icon that in ancient Hindu symbolizes physical strenght, perseverance, psychological prowess and concentration, which exactly describes what an Ashtanga practice embodies. The end of the journey is represented by a circle, which symbolizes union, the gift of being in balance with our true nature and living a life with more love and purpose.
+    - The center image was chosen to encapsulate the journey's theme, as the Sahasrara symbol represents the opening of the spiritual self the way a lotus opens itself to the sun. By which the yellowish button above is perfectly complementary. 
+
+![](assets/images-readme/journey.png)
+
+
+
 
 
 
