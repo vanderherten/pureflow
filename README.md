@@ -87,6 +87,16 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/prices.png)
 
+- **Practice Section**
+
+    - The Practice section has a clear and large title design, to be easily located by the user.
+    - This section features three sub-sections to clearly communicate the different types of information pertaining to when a user decides to come to practice. All sub-sections have their seperated colored background to give an easy visual distinction. Each list point in the sections has been designed with a primary color dot to help the user more easily locate the different list points. The design also helps to create a friendlier tone with the soft color choice.
+    - The About sub-section provides a discription about the different type of classes.
+    - The What To Bring sub-section clearly informs the user what to bring to class.
+    - The What To Consider sub-section provides the user with useful information that is important to know, before coming to class. This will help create a good user experience as the user will be properly informed.
+
+![](assets/images-readme/practice.png)
+
 
 
 
