@@ -672,7 +672,7 @@ body {
     background-color: #f7f4ed;
     display: flex;
     flex-direction: column;
-    height: 1000px;
+    height: 1052px;
     border: 3px solid #9cc1c1;
 }
 
@@ -981,11 +981,11 @@ body {
         background-color: #f7f4ed;
         display: flex;
         flex-direction: row;
-        height: auto;
+        height: 533px;
     }
 
     .sec-studio__container>* {
-        height: 50%;
+        height: 527px;
     }
 
     .sec-studio__form {
@@ -995,7 +995,7 @@ body {
 
     .sec-studio__img {
         border-left: 3px solid #9cc1c1;
-        height: 530px;
+        height: 521px;
         border-top: none;
     }
 
