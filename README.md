@@ -21,6 +21,15 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/nav-bar-mobile.png)
 
+- **Landing Page Image**
+
+    - The landing section features a striking hero image of a woman performing a backbend yoga pose. The image's background displays a receding focal point encompassing the subject. The image was purposely chosen to convey Pureflow's website theme. Backbend poses are heart-opening poses on the spiritual level and Pureflow's goal is to invite self-discovery to connect to our true self on our yoga journey. The white walled receding background of the image portrays beautifully the purifying spiritual journey that one is invited to embark on. 
+    - Besides the yoga image clearly communicating that Pureflow is a yoga site, the text overlay allows the user to immediately see the type of yoga that is being promoted and also the location the site is applicable to.
+    - The image has a bottom primary color of a warm blue tone to help give the site hero image a warmer welcoming feel.
+
+![](assets/images-readme/landing-page.png)
+
+
 
 
 
