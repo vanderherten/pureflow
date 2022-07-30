@@ -104,7 +104,12 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/header-contact.png)
 
+- **Studio Section**
 
+    - The Studio section displays Pureflow's studio location by providing a clear sub-heading called Find Us and displaying below a location icon followed by the Pureflow's studio address. To help the user locate the studio more easily a google map is also provided.
+    - The Studio section also displays Pureflow's contact details by providing another clear sub-heading called Reach Us and displaying below the phone number and email address accompanied with clear icons, so the user can easily spot the relevant information. 
+
+![](assets/images-readme/studio.png)
 
  
 
