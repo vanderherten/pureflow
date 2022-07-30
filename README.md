@@ -56,6 +56,14 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/community.png)
 
+- **Footer**
+
+    - The footer section displays links to the relevant social media sites for Pureflow. The links are designed to open in a new tab to create a good user experience, whereby the Pureflow website remains easy to access.
+    - The footer section design has a top border to create a clear seperation from the above section. 
+    - The footer is of value to the user as it motivates the user to connect through social media and creates another low friction access point to Pureflow's community. This can encourage users that need more time to decide to join the Pureflow studio and community. It allows them to take their time to get to know the community better from a distance before joining. Ultimately, this is also of value to the Pureflow's goal of having more people join their community.
+
+ ![](assets/images-readme/footer.png)
+
 
 
 
