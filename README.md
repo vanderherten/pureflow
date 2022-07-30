@@ -23,7 +23,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 - **Landing Page Image**
 
-    - The landing section features a striking hero image of a woman performing a backbend yoga pose. The image's background displays a receding focal point encompassing the subject. The image was purposely chosen to convey Pureflow's website theme. Backbend poses are heart-opening poses on the spiritual level and Pureflow's goal is to invite self-discovery to connect to our true self on our yoga journey. The white walled receding background of the image portrays beautifully the purifying spiritual journey that one is invited to embark on. 
+    - The Landing section features a striking hero image of a woman performing a backbend yoga pose. The image's background displays a receding focal point encompassing the subject. The image was purposely chosen to convey Pureflow's website theme. Backbend poses are heart-opening poses on the spiritual level and Pureflow's goal is to invite self-discovery to connect to our true self on our yoga journey. The white walled receding background of the image portrays beautifully the purifying spiritual journey that one is invited to embark on. 
     - Besides the yoga image clearly communicating that Pureflow is a yoga site, the text overlay allows the user to immediately see the type of yoga that is being promoted and also the location the site is applicable to.
     - The image has a bottom primary color of a warm blue tone to help give the site hero image a warmer welcoming feel.
 
@@ -58,7 +58,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 - **Footer**
 
-    - The footer section displays links to the relevant social media sites for Pureflow. The links are designed to open in a new tab to create a good user experience, whereby the Pureflow website remains easy to access.
+    - The Footer section displays links to the relevant social media sites for Pureflow. The links are designed to open in a new tab to create a good user experience, whereby the Pureflow website remains easy to access.
     - The footer section design has a top border to create a clear seperation from the above section. 
     - The footer is of value to the user as it motivates the user to connect through social media and creates another low friction access point to Pureflow's community. This can encourage users that need more time to decide to join the Pureflow studio and community. It allows them to take their time to get to know the community better from a distance before joining. Ultimately, this is also of value to the Pureflow's goal of having more people join their community.
 
@@ -70,6 +70,16 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The user will be able to locate information on the studio's schedule and Pureflow's prices. There is also information provided on the type of classes Traditional Ashtanga yoga provides. Lastly the page displays info on what to bring to practice and what to consider when coming to practice. 
 
 ![](assets/images-readme/header-classes.png)
+
+- **Schedule Section**
+
+    - This section start with a clear large title, so the user can easily locate this section on the page.
+    - The Schedule section privides information in a concise manner, to create an enjoyable user experience as to find the relevant information easily without much friction.
+    - The Schedule section provides two tables. One table displaying the studio opening and closing times. The other table displaying the times different type of classes are held.
+
+![](assets/images-readme/schedule.png)
+
+
 
 
 
