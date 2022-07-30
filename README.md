@@ -38,6 +38,14 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/journey.png)
 
+- **Intention Section**
+
+    - The Intention section aims to communicate to the user the Pureflow yoga community's values by clearly stating three titles and sub-titles with further explanations and accompanying images. 
+    - This transparent disclosure helps to present a distinct Pureflow brand, which is important to establish the user's trust.
+    - The warm yellowish toned background is used to show a welcoming friendly community within the scope of a very traditional yoga practice. The latter is conveyed by the grayscale images.
+
+![](assets/images-readme/intention.png)
+
 
 
 
