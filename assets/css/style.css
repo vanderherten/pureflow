@@ -684,6 +684,12 @@ body {
     border-bottom: 1.5px solid #9cc1c1;
 }
 
+.sec-studio__items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .sec-studio__items-1 {
     padding-bottom: 2rem;
 }
@@ -696,8 +702,6 @@ body {
     font-size: 1.4rem;
     padding-top: 1rem;
     font-weight: 500;
-    padding-left: 0.5rem;
-    text-align: left;
 }
 
 .sec-studio__text {
@@ -710,7 +714,6 @@ body {
 .sec-studio__item {
     display: flex;
     gap: 1.5rem;
-    padding-left: 0.5rem;
 }
 
 .sec-studio__item-1 {
@@ -768,17 +771,6 @@ body {
   || MEDIA QUERY BREAKPOINTS
   ==========================*/
 
-@media only screen and (min-width: 350px) {
-    /* || CONTACT PAGE */
-
-    /* SECTION STUDIO */
-
-    .sec-studio__sub-title,
-    .sec-studio__item {
-        padding-left: 5rem;
-    }
-}
-
 @media only screen and (min-width: 650px) {
     /* || CLASSES PAGE */
 
@@ -792,7 +784,6 @@ body {
         margin-right: 1.5rem;
     }
 }
-
 
 @media only screen and (min-width: 750px) {
     /* || HOME PAGE */
