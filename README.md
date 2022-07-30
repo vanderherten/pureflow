@@ -12,8 +12,10 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 - __Navigation Bar__
 
- - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Classes page, Contact page, Free Tial form and Newsletter form. They are displayed identical on all the three pages and remain visible at the top of the browser's viewport even while scrolling down the page to allow for an easy navigation user experience. The currently visited page is highlighted at all times so the user has clarity on what page they are currently on. 
- - This section will allow the user to access all the pages and signup forms from each individual page and across all devices without having to use the 'back' button to navigate to a previous page. Also, on smaller screens the navigation bar is collapsed but remains easily accessible in the top right hand corner.
+    - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Classes page, Contact page, Free Tial form and Newsletter form. They are displayed identical on all the three pages and remain visible at the top of the browser's viewport even while scrolling down the page to allow for an easy navigation user experience. 
+    - The currently visited page is highlighted at all times so the user has clarity on what page they are currently on. 
+    - This section will allow the user to access all the pages and signup forms from each individual page and across all devices without having to use the 'back' button to navigate to a previous page.
+    - On smaller screens the navigation bar is collapsed, but remains easily accessible in the top right hand corner.
 
 ![](assets/images-readme/nav-bar.png)
 
