@@ -46,6 +46,17 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![](assets/images-readme/intention.png)
 
+- **Community Section**
+
+    - The Community section invites the Pureflow website user to join its community by listing its community's features with friendly rounded icons followed by a brief description of its actions and benefits.
+    - Once again this transparent communication helps to make the user feel at ease, which is important to Pureflow's goal of having users join their community.
+    - After a clear concise description list of what being part of the Pureflow community entails, Pureflow invites its users to sign up for an Events Newsletter to stay up to date with the community's activities. 
+    - The Events Newsletter form is designed with soft soothing warm color tones to communicate a friendly welcoming vibe. The accompanying image also portrayes the calming embracing Pureflow community nature.
+    - The Events Newsletter form only asks for an email input and a name input was omitted intentionally to create the least amount of friction for the user. Not only will this help Pureflow's goal to have more users sign up, but it also creates an enjoyable user experience with less initial commitment and exposure on the user's end. 
+
+![](assets/images-readme/community.png)
+
+
 
 
 
