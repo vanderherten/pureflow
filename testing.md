@@ -13,3 +13,6 @@
             - [Contact page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-contact.png). 
             - There was an error for value 100% on the attribute width and height on element iframe (google map).
             - A method was used to embed a responsive google map without google apis or further css styling. [Responsive google maps embed methods webpage](https://blog.duda.co/responsive-google-maps-for-your-website). [Responsive google maps embed method excerpt](assets/images-readme/images-testing/embed-google-map.png).
+
+- CSS:
+    - [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) tool was used to validate the CSS stylesheet.
