@@ -4,7 +4,7 @@ Pureflow is a mobile-first website that aims to promote authentic Ashtanga Yoga 
 
 Pureflow is a website that will target first-time and experienced yogis and yoginis who are visiting or are located in Sanremo Italy. Pureflow will be useful for those who are looking to practice yoga in an authentic way, as how it is still taught in India today. Pureflow's goal is to create a community that connects to mother nature, who is our greatest teacher and inspiration to live a balanced life, to benefit ourselves and the world as a whole. Therefore, Pureflow will also be useful for those who are looking to connect with others for the greater good. 
 
-![](assets/images-readme/mock-ups.png)
+![Responsive Mockup](assets/images-readme/mockup.png)
 
 ## Features
 
@@ -17,9 +17,9 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - This section will allow the user to access all the pages and signup forms from each individual page and across all devices without having to use the 'back' button to navigate to a previous page.
     - On smaller screens the navigation bar is collapsed, but remains easily accessible in the top right hand corner.
 
-![](assets/images-readme/nav-bar.png)
+![Nav Bar](assets/images-readme/nav-bar.png)
 
-![](assets/images-readme/nav-bar-mobile.png)
+![Mobile Nav Bar](assets/images-readme/nav-bar-mobile.png)
 
 - **Landing Page Image**
 
@@ -27,7 +27,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - Besides the yoga image clearly communicating that Pureflow is a yoga site, the text overlay allows the user to immediately see the type of yoga that is being promoted and also the location the site is applicable to.
     - The image has a bottom primary color of a warm blue tone to help give the site hero image a warmer welcoming feel.
 
-![](assets/images-readme/landing-page.png)
+![Landing Page](assets/images-readme/landing-page.png)
 
 - **Journey Section**
 
@@ -36,7 +36,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The direction of the journey is signified by using an arrow icon that in ancient Hindu symbolizes physical strenght, perseverance, psychological prowess and concentration, which exactly describes what an Ashtanga practice embodies. The end of the journey is represented by a circle, which symbolizes union, the gift of being in balance with our true nature and living a life with more love and purpose.
     - The center image was chosen to encapsulate the journey's theme, as the Sahasrara symbol represents the opening of the spiritual self the way a lotus opens itself to the sun. By which the yellowish button above is perfectly complementary. 
 
-![](assets/images-readme/journey.png)
+![Journey](assets/images-readme/journey.png)
 
 - **Intention Section**
 
@@ -44,7 +44,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - This transparent disclosure helps to present a distinct Pureflow brand, which is important to establish the user's trust.
     - The warm yellowish toned background is used to show a welcoming friendly community within the scope of a very traditional yoga practice. The latter is conveyed by the grayscale images.
 
-![](assets/images-readme/intention.png)
+![Intention](assets/images-readme/intention.png)
 
 - **Community Section**
 
@@ -54,7 +54,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The Events Newsletter form is designed with soft soothing warm color tones to communicate a friendly welcoming vibe. The accompanying image also portrayes the calming embracing Pureflow community nature.
     - The Events Newsletter form only asks for an email input and a name input was omitted intentionally to create the least amount of friction for the user. Not only will this help Pureflow's goal to have more users sign up, but it also creates an enjoyable user experience with less initial commitment and exposure on the user's end. 
 
-![](assets/images-readme/community.png)
+![Community](assets/images-readme/community.png)
 
 - **Footer**
 
@@ -62,14 +62,14 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The footer section design has a top border to create a clear seperation from the above section. 
     - The footer is of value to the user as it motivates the user to connect through social media and creates another low friction access point to Pureflow's community. This can encourage users that need more time to decide to join the Pureflow studio and community. It allows them to take their time to get to know the community better from a distance before joining. Ultimately, this is also of value to the Pureflow's goal of having more people join their community.
 
- ![](assets/images-readme/footer.png)
+ ![Footer](assets/images-readme/footer.png)
 
  - **Classes Page**
 
     - The Classes page features a header clearly displaying the current page. The header is the same color as the Hero Image's bottom border, to create a uniform design throughout the site. 
     - The user will be able to locate information on the studio's schedule and Pureflow's prices. There is also information provided on the type of classes Traditional Ashtanga yoga provides. Lastly the page displays info on what to bring to practice and what to consider when coming to practice. 
 
-![](assets/images-readme/header-classes.png)
+![Classes Page](assets/images-readme/header-classes.png)
 
 - **Schedule Section**
 
@@ -77,7 +77,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The Schedule section privides information in a concise manner, to create an enjoyable user experience as to find the relevant information easily without much friction.
     - The Schedule section provides two tables. One table displaying the studio opening and closing times. The other table displaying the times different type of classes are held.
 
-![](assets/images-readme/schedule.png)
+![Schedule](assets/images-readme/schedule.png)
 
 - **Prices Section**
 
@@ -85,7 +85,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - This section firstly displays the 'Free Trial Week Sign Up' form. Its colors are soft and inviting, while also standing out from the page to promote an action on the user's end. It is joined by an image of a yogini about to join a yoga class.
     - Underneath the form the two price options are displayed, with a clear consise description and yellow sign up button.
 
-![](assets/images-readme/prices.png)
+![Prices](assets/images-readme/prices.png)
 
 - **Practice Section**
 
@@ -95,21 +95,21 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The What To Bring sub-section clearly informs the user what to bring to class.
     - The What To Consider sub-section provides the user with useful information that is important to know, before coming to class. This will help create a good user experience as the user will be properly informed.
 
-![](assets/images-readme/practice.png)
+![Practice](assets/images-readme/practice.png)
 
 - **Contact Page**
 
     - The Contact page features a header clearly displaying the current page. The header is the same color as the Hero Image's bottom border and the Contact page header, to create a uniform design throughout the site. 
     - The user will be able to locate information on where to find the studio and how to reach the studio. The Contact page provides the user with a form to submit any questions the user might have.
 
-![](assets/images-readme/header-contact.png)
+![Contact Page](assets/images-readme/header-contact.png)
 
 - **Studio Section**
 
     - The Studio section displays Pureflow's studio location by providing a clear sub-heading called Find Us and displaying below a location icon followed by the Pureflow's studio address. To help the user locate the studio more easily a google map is also provided.
     - The Studio section also displays Pureflow's contact details by providing another clear sub-heading called Reach Us and displaying below the phone number and email address accompanied with clear icons, so the user can easily spot the relevant information. 
 
-![](assets/images-readme/studio.png)
+![Studio](assets/images-readme/studio.png)
 
 - **Questions Section**
 
@@ -118,7 +118,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - The yellow designed button provides a visually clear action point. 
     - The form's accompanying image was designed with a large question mark that clearly and immediately signifies the form's purpose. It was designed largly to stand out, but with the same color of the border to maintain a soft cohesive visual display. 
 
-![](assets/images-readme/questions.png)
+![Questions](assets/images-readme/questions.png)
 
  
 
