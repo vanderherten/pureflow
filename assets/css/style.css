@@ -903,6 +903,7 @@ body {
 
     .sec-journey__img {
         display: inline-block;
+        /* Below - css filter generator used from outside source: codepen - refer to README */
         filter: invert(20%) sepia(18%) saturate(439%) hue-rotate(131deg) brightness(94%) contrast(83%);
     }
 
