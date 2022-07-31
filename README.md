@@ -42,6 +42,13 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - I want to easily find the studio schedule and pricing information.
     - I want to be able to easily sign up for a pricing plan. 
 
+### Wireframes
+
+- The Pureflow project wireframes were designed using [Balsamiq](https://balsamiq.com/). The designs vary slightly in some places from the end ux website design due to some design decisions made during the development process. 
+    - [Home page Wireframes](assets/images-readme/wireframes-home.png)
+    - [Classes page Wireframes](assets/images-readme/wireframes-classes.png)
+    - [Contact page Wireframes](assets/images-readme/wireframes-contact.png)
+
 ## Features
 
 ### Existing Features
