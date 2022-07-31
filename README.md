@@ -6,6 +6,19 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![Responsive Mockup](assets/images-readme/mockup.png)
 
+## Project Goals
+
+- To establish an online presence for Pureflow.
+- To design a website with excellent user experience as a driving force, whereby the user has easy access to the required information throughout the site.
+- To provide the user with practical information in a concise manner to add to a great user experience. 
+- To design a website with a beautiful user interface that adds to the ux design and doesn't take away from it's goal.
+- To design a website with an user interface that clearly communicates Pureflow's values and brand.
+- To inform the user on the benefits and the process of an authentic Traditional Ashtanga Yoga practice.
+- To entice users to start a yoga practice with the Pureflow yoga studio.
+- To inform the user on the benefits of joining the Pureflow community.
+- To entice users to sign up for the community Events Newsletter. 
+- To provide the user easy access to Pureflow's social media presence.
+
 ## Features
 
 ### Existing Features
