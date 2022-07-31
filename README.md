@@ -120,6 +120,25 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![Questions](assets/images-readme/questions.png)
 
+### Features Left to Implement
+
+- **Teacher Bio Section**
+
+    - A Teacher Bio section would be helpful to gain the user's trust before coming to practice. 
+    - This section would display the teachers pictures and their names. Underneath there would be mention of their yoga qualification, their own yoga Journey and also which teachers they practiced under. Finally, there would be a description of their personal teaching style.
+
+- **Gallery Section**
+
+    - A Gallery section would display images of Pureflow members practicing yoga at the Studio. This would allow the user to have a clear idea of what the studio looks like and how people practice. The gallery would encourage more users to come to class, as it would take away any concerns or worries the user might have when starting a new yoga practice at an unfamiliar yoga studio. 
+    - The Gallery section would also display images of the Pureflow community participating in past events and activities. This section would aid in reflecting the community values and goals of having a beneficial environmental and social impact in the larger community of Sanremo, Italy. The Gallery would also communicate the welcoming, relaxed and friendly vibe of the Pureflow community and encourage more users to sign up for the Events Newsletter.
+
+
+
+
+
+
+
+
  
 
 
