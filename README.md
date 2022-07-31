@@ -139,8 +139,8 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 Most content was written by the developer.
 
 - The Journey section and Intention section on the Home page: 
-    - Some content idea and wording were taken from [Ashtanga Yoga Teacher Aline Fernandes](http://alinefernandesyogini.com/)
-        - Layout idea was used as inspiration and mostly reframed to make my own. 
+    - Some content ideas and wording were taken from [Ashtanga Yoga Teacher Aline Fernandes](http://alinefernandesyogini.com/)
+        - The layout idea was used as inspiration and mostly reframed to make my own. 
         - Some content wording was used, but reframed to fit my own paragraph message. 
     - Some content was taken from [Ashtanga Yoga Teacher Eddie Stern](https://eddiestern.com/class-descriptions/)
         - In the Intention section for The Share Traditional Yoga sub-section, some content wording was used for the paragraph, but reframed to make my own. 
