@@ -158,6 +158,7 @@ Most content was written by the developer.
 - The Studio secion on the Contact page:
     - Some content was taken from [Yoga Wellness Center, San Remo, Italy](https://www.shantisanremo.com/conttati)
         - A direct copy of the address and phone number was used for the sub-sections Find Us and Reach Us.
+    - A HTML method was used to embed a responsive google map without google apis or further css styling. [Responsive google maps embed methods webpage](https://blog.duda.co/responsive-google-maps-for-your-website). [Responsive google maps embed method excerpt](assets/images-readme/images-testing/embed-google-map.png).
 - The Icons in the Footer section and all the website pages:
     - The icons were taken from open source [Ionicons](https://ionic.io/ionicons)
 
