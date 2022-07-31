@@ -136,6 +136,16 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 The testing process can be viewed [here](testing.md).
 
+## Deployment
+
+    - The website was deployed to GitHub pages. The steps taken to deploy were as follows:
+        - In the GitHub relevant [Pureflow](https://github.com/vanderherten/pureflow) repository, at the top navigate to the Settings tab.
+        - In the left vertical navigation menu navigate to the Pages tab.
+        - Under the Build and Deployment section, select 'main' as the Branch option.
+        - Press the Save tab.
+        - The page will automatically refresh and after a few minutes a link to the live site will appear under the GitHub pages heading.
+        - There is no difference between the deployed and development version of this website.
+
 ## Credits
 
 ### Content
@@ -176,6 +186,7 @@ Thank you to my mentor for giving me positive motivation, guidance and support.
 Thank you to [Code Institute](https://codeinstitute.net/) for their motivational support, guidance and information.
 
 Thank you to the Slack community for their support throughout the process. 
+
 
 
 
