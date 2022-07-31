@@ -5,18 +5,18 @@
 - HTML:
     - [The W3C Markup Validation Service](https://validator.w3.org/) tool was used to validate all html files.
         - The warning and errors were fixed, which resulted in no errors found.
-            - [Home page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-index.png).
-            - [Classes page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-classes.png).  
+            - ![Home page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-index.png).
+            - ![Classes page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-classes.png).  
             - There was a warning that the list role is unnecessary for element ul.
             - There was an error for a type attribute on the form inputs.
         - The Contact page returned an error, which I intentionally left unfixed.
-            - [Contact page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-contact.png). 
+            - ![Contact page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-contact.png). 
             - There was an error for value 100% on the attribute width and height on element iframe (google map).
             - A method was used to embed a responsive google map without google apis or further css styling. [Responsive google maps embed methods webpage](https://blog.duda.co/responsive-google-maps-for-your-website). [Responsive google maps embed method excerpt](assets/images-readme/images-testing/embed-google-map.png).
 - CSS:
     - [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) tool was used to validate the CSS stylesheet.
         - The errors were fixed, which resulted in no errors found.
-            - [CSS validator results](assets/images-readme/images-testing/w3c-css-validator.png).
+            - ![CSS validator results](assets/images-readme/images-testing/w3c-css-validator.png).
             - There was a syntax error for margin-top. 
 
 ### Website Functionality Testing
@@ -42,7 +42,9 @@
         - The web pages were tested to see if all moving parts moved smootly when changing from a wide viewport to a small viewport and vice-versa.
         - The Navigation Bar was tested on all pages to make sure the navigation bar stayed fixed on top while scrolling down the web page, to make sure the user has access to all the navigational links on the site at all times.
         - The Mobile Navigation menu was tested on all pages to make sure the mobile icon toggle function worked and the menu items got displayed on a white background covering the whole viewport and masking the web page's content.
-        - The Mobile layout was tested in the google chrome developer tools with Device Mode set for different mobile devices. The Mobile layout was also tested on my personal mobile phone. All the pages and content were aligned and sized correctly with a great user experience in mind.     
+        - The Mobile layout was tested in the google chrome developer tools with Device Mode set for different mobile devices. The Mobile layout was also tested on my personal mobile phone. All the pages and content were aligned and sized correctly with a great user experience in mind.  
+
+   
 
 
 
