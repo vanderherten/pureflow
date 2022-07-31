@@ -5,19 +5,22 @@
 - HTML:
     - [The W3C Markup Validation Service](https://validator.w3.org/) tool was used to validate all html files.
         - The warning and errors were fixed, which resulted in no errors found.
-            - ![Home page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-index.png).
-            - ![Classes page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-classes.png).  
             - There was a warning that the list role is unnecessary for element ul.
             - There was an error for a type attribute on the form inputs.
+        ![Home page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-index.png).
+        ![Classes page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-classes.png)  
         - The Contact page returned an error, which I intentionally left unfixed.
-            - ![Contact page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-contact.png). 
             - There was an error for value 100% on the attribute width and height on element iframe (google map).
             - A method was used to embed a responsive google map without google apis or further css styling. [Responsive google maps embed methods webpage](https://blog.duda.co/responsive-google-maps-for-your-website). [Responsive google maps embed method excerpt](assets/images-readme/images-testing/embed-google-map.png).
+        ![Contact page html markup validator results](assets/images-readme/images-testing/w3c-html-validator-contact.png)            
 - CSS:
     - [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) tool was used to validate the CSS stylesheet.
         - The errors were fixed, which resulted in no errors found.
-            - ![CSS validator results](assets/images-readme/images-testing/w3c-css-validator.png).
-            - There was a syntax error for margin-top. 
+            - There was a syntax error for margin-top.
+        ![CSS validator results](assets/images-readme/images-testing/w3c-css-validator.png)            
+- Accessibility:
+    - I tested the website's accessibility by running it through Lighthouse in the Google Chrome developer tools: 
+    ![Lighthouse results](assets/images-readme/images-testing/lighthouse-score.png)
 
 ### Website Functionality Testing
 
