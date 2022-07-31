@@ -19,6 +19,29 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 - To entice users to sign up for the community Events Newsletter. 
 - To provide the user easy access to Pureflow's social media presence.
 
+## UX - User Experience
+
+### User Stories
+
+- As a first-time user:
+    - I want to be able to fully understand what the site is about and who it is for from the main landing page.
+    - I want the Pureflow site to communicate it's values clearly through its use of imagery and written content. 
+    - I want to be provided with all the relevant information needed before making a decision on coming to practice at Pureflow studio or join their community.
+    - I want to be able to contact Pureflow for further questions I might have.
+    - I want to be able to sign up for a free trial week.
+    - I want to be able to easily find the studio location information.
+    - I want to be provided with examples of the communities activities and benefits, before signing up for the Events Newsletter.
+    - I want to be informed on the type of classes that are available at Pureflow yoga studio.
+    - I want to be informed on what to bring and what to consider before coming to practice.
+- As a user:
+    - I want to be able to scan the site's information easily without being overwhelmed by too much information, so to be provided with the relevant info in a concise manner.
+    - I want to be able to navigate the site effortlessly as to have access to all the pages and action points easily at all times.
+    - I want to be able to have easy access to the Pureflow's media presence.
+    - I want to be able to sign up for an Events Newsletter, so that I can stay up to date on Pureflow's community activities. 
+    - I want to have easy access to Pureflow's contact information.
+    - I want to easily find the studio schedule and pricing information.
+    - I want to be able to easily sign up for a pricing plan. 
+
 ## Features
 
 ### Existing Features
