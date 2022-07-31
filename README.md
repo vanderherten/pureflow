@@ -132,6 +132,48 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - A Gallery section would display images of Pureflow members practicing yoga at the Studio. This would allow the user to have a clear idea of what the studio looks like and how people practice. The gallery would encourage more users to come to class, as it would take away any concerns or worries the user might have when starting a new yoga practice at an unfamiliar yoga studio. 
     - The Gallery section would also display images of the Pureflow community participating in past events and activities. This section would aid in reflecting the community values and goals of having a beneficial environmental and social impact in the larger community of Sanremo, Italy. The Gallery would also communicate the welcoming, relaxed and friendly vibe of the Pureflow community and encourage more users to sign up for the Events Newsletter.
 
+## Credits
+
+### Content
+
+Most content was written by the developer.
+
+- The Journey section and Intention section on the Home page: 
+    - Some content idea and wording were taken from [Ashtanga Yoga Teacher Aline Fernandes](http://alinefernandesyogini.com/)
+        - Layout idea was used as inspiration and mostly reframed to make my own. 
+        - Some content wording was used, but reframed to fit my own paragraph message. 
+    - Some content was taken from [Ashtanga Yoga Teacher Eddie Stern](https://eddiestern.com/class-descriptions/)
+        - In the Intention section for The Share Traditional Yoga sub-section, some content wording was used for the paragraph, but reframed to make my own. 
+    - A CSS filter generator was used from [Barrett Sonntag Codepen](https://codepen.io/sosuke/pen/Pjoqqp)
+        - The sahasrara symbol in the Journey Section was changed from black to the Journey section text color by using the css filter generator code
+- The Practice section on the Classes page:
+    - Some content was taken from [Ashtanga Yoga Teacher Eddie Stern](https://eddiestern.com/class-descriptions/)
+        - A direct copy of content wording was used for the Mysore Class description.
+    - Some content was taken from [Ashtanga Yoga Studio Brussels, Belgium](https://ashtanga.be/ashtanga/) and from [Ashtanga Yoga Studio Geneva, Switzerland](https://www.ashtangageneva.com/)
+        - The Coming to Practice section's description content was inspired by these websites.
+- The Studio secion on the Contact page:
+    - Some content was taken from [Yoga Wellness Center, San Remo, Italy](https://www.shantisanremo.com/conttati)
+        - A direct copy of the address and phone number was used for the sub-sections Find Us and Reach Us.
+- The Icons in the Footer section and all the website pages:
+    - The icons were taken from open source [Ionicons](https://ionic.io/ionicons)
+
+### Media
+
+- Images on all the Pureflow webpages, except the Journey section:
+    - All images were taken from [Unsplash](https://unsplash.com/)
+- The Journey section sahasrara symbol:
+    - The image was taken from [Flaticon](https://www.flaticon.com/)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
