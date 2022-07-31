@@ -21,6 +21,9 @@
 
 ### Website Functionality Testing
 
+- Website:
+    - I tested that all the pages work in different browsers:
+        - Chrome, Firefox, Safari.
 - Navigation links:
     - All navigation links were tested for desktop and mobile:
         - The primary navigation menu and logo link was tested to validate that all of the links work correctly.
@@ -39,7 +42,7 @@
         - The web pages were tested to see if all moving parts moved smootly when changing from a wide viewport to a small viewport and vice-versa.
         - The Navigation Bar was tested on all pages to make sure the navigation bar stayed fixed on top while scrolling down the web page, to make sure the user has access to all the navigational links on the site at all times.
         - The Mobile Navigation menu was tested on all pages to make sure the mobile icon toggle function worked and the menu items got displayed on a white background covering the whole viewport and masking the web page's content.
-        - The Mobile layout was tested in the google chrome developer tools with Device Mode set for different mobile devices. The Mobile layout was also tested on my personal mobile phone. All the pages and content were aligned and sized correctly with a great user experience in mind. 
+        - The Mobile layout was tested in the google chrome developer tools with Device Mode set for different mobile devices. The Mobile layout was also tested on my personal mobile phone. All the pages and content were aligned and sized correctly with a great user experience in mind.     
 
 
 
