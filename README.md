@@ -146,6 +146,8 @@ The testing process can be viewed [here](testing.md).
     - The page will automatically refresh and after a few minutes a link to the live site will appear under the GitHub pages heading.
     - There is no difference between the deployed and development version of this website.
 
+The live site can be found here - [Pureflow](https://vanderherten.github.io/pureflow/index.html)
+
 ## Credits
 
 ### Content
