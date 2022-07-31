@@ -196,11 +196,9 @@ Most content was written by the developer.
 
 ## Acknowledgements
 
-Thank you to my mentor for giving me positive motivation, guidance and support.
-
-Thank you to [Code Institute](https://codeinstitute.net/) for their motivational support, guidance and information.
-
-Thank you to the Slack community for their support throughout the process. 
+- Thank you to my mentor [Akshat Garg](https://www.linkedin.com/in/akshatnitd) for giving me positive encouragement, guidance and support throughout the development process.
+- Thank you to [Code Institute](https://codeinstitute.net/) for their information, guidance and support.
+- Thank you to the Slack community for their support throughout the process. 
 
 
 
