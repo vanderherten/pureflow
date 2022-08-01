@@ -8,6 +8,44 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 [View the live site here](https://vanderherten.github.io/pureflow/index.html)
 
+---
+
+## Contents
+
+- [Project Goals](https://github.com/vanderherten/pureflow#project-goals)
+- [UX - User Experience](https://github.com/vanderherten/pureflow#ux---user-experience)
+    - [User Stories](https://github.com/vanderherten/pureflow#user-stories)
+    - [Wireframes](https://github.com/vanderherten/pureflow#wireframes)
+- [UI - User Interface](https://github.com/vanderherten/pureflow#ui---user-interface)
+    - [Typography](https://github.com/vanderherten/pureflow#typography)
+    - [Colors](https://github.com/vanderherten/pureflow#colors)
+- [Features](https://github.com/vanderherten/pureflow#features)
+    - [Existing Features](https://github.com/vanderherten/pureflow#existing-features)
+        - [Navigation Bar](https://github.com/vanderherten/pureflow#navigation-bar)
+        - [Landing Page Image](https://github.com/vanderherten/pureflow#landing-page-image)
+        - [Journey Section](https://github.com/vanderherten/pureflow#journey-section)
+        - [Intention Section](https://github.com/vanderherten/pureflow#intention-section)
+        - [Community Section](https://github.com/vanderherten/pureflow#community-section)
+        - [Footer](https://github.com/vanderherten/pureflow#footer)
+        - [Classes Page](https://github.com/vanderherten/pureflow#classes-page)
+        - [Schedule Section](https://github.com/vanderherten/pureflow#schedule-section)
+        - [Prices Section](https://github.com/vanderherten/pureflow#prices-section)
+        - [Practice Section](https://github.com/vanderherten/pureflow#practice-section)
+        - [Contact Page](https://github.com/vanderherten/pureflow#contact-page)
+        - [Studio Section](https://github.com/vanderherten/pureflow#studio-section)
+        - [Questions Section](https://github.com/vanderherten/pureflow#questions-section)
+    - [Features  Left to Implement](https://github.com/vanderherten/pureflow#features-left-to-implement)
+        - [Teacher Bio Section](https://github.com/vanderherten/pureflow#teacher-bio-section)
+        - [Gallery Section](https://github.com/vanderherten/pureflow#gallery-section)
+- [Testing](https://github.com/vanderherten/pureflow#testing)
+- [Deployment](https://github.com/vanderherten/pureflow#deployment)
+- [Credits](https://github.com/vanderherten/pureflow#credits)
+    - [Content](https://github.com/vanderherten/pureflow#content)
+    - [Media](https://github.com/vanderherten/pureflow#media)
+- [Acknowledgements](https://github.com/vanderherten/pureflow#acknowledgements)
+
+---
+
 ## Project Goals
 
 - To establish an online presence for Pureflow.
@@ -61,7 +99,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     ![Contact page Wireframes](assets/images-readme/wireframes-contact.png)
 
 
-## UI- User Interface
+## UI - User Interface
 
 ### Typography
 
