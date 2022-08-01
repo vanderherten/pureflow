@@ -21,7 +21,7 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     - [Colors](#colors)
 - [Features](#features)
     - [Existing Features](#existing-features)
-        * [Navigation Bar](#navigation-bar)
+        - [Navigation Bar](#navigation-bar)
         - [Landing Page Image](#landing-page-image)
         - [Journey Section](#journey-section)
         - [Intention Section](#intention-section)
