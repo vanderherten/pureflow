@@ -6,6 +6,8 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
 
 ![Responsive Mockup](assets/images-readme/mockup.png)
 
+[View the live site here](https://vanderherten.github.io/pureflow/index.html)
+
 ## Project Goals
 
 - To establish an online presence for Pureflow.
