@@ -59,6 +59,21 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
     ![Contact page Wireframes](assets/images-readme/wireframes-contact.png)
 
 
+## UI- User Interface
+
+### Typography
+
+- The fonts were selected from [Google Fonts](https://fonts.google.com/).
+    - [Cardo Font](https://fonts.google.com/specimen/Cardo?query=Cardo#standard-styles):
+        - This font was chosen to portray Pureflow's brand.
+        - This Humanist serif, or also known as old style, communicates a timeless, trustworthy, and traditional feel.
+        - This font is beautiful in a larger font-size and therefore was chosen for the site's headings.
+
+    - [Roboto Font](https://fonts.google.com/specimen/Roboto?query=Roboto):
+        - This font was chosen to portray Pureflow's community feel.
+        - This neutral grotesque has a clean and simple typeface, which communicates an easy going but at the same time a structured feel. 
+        - The font is designed for legibility and therefore was chosen for the site's body text. 
+
 ## Features
 
 ### Existing Features
