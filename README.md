@@ -74,6 +74,36 @@ Pureflow is a website that will target first-time and experienced yogis and yogi
         - This neutral grotesque has a clean and simple typeface, which communicates an easy going but at the same time a structured feel. 
         - The font is designed for legibility and therefore was chosen for the site's body text. 
 
+### Colors
+
+- The primary and secondary color choices for the site were created using [Figma](https://www.figma.com/):
+    - As a starting point I used the process of selecting a light blue color from the hero image (the bottom left corner).
+    ![Hero image color](assets/images-readme/color-image-figma.png)
+
+    - I used the HSB (Hue, Saturation, Brightness) code to create a primary color. 
+    ![Hero image HSB code](assets/images-readme/color-image-hsb-figma.png)
+
+    - To create a more welcoming and friendlier feel for Pureflow's website, I opted to bring the hue closer to green to bring a warmer tone to the blue, and highered the saturation to get a beautifully soft soothing color.
+    ![Primary Color](assets/images-readme/color-primary-figma.png)
+    - This color communicates strenght in line with the Ashtanga yoga practice and at the same time communicating the softness required of embracing one's true self.
+
+    - The secondary color was created by choosing a yellow hue as close as possible to the orange tone, while still maintaining yellow to respresent's the sun's vitality and to be an excellent color to use for action points throughout the site. Bringing the hue closer to orange brings warmth to the yellow.
+    ![Secondary Color Hue](assets/images-readme/color-secondary-hue-figma.png)
+
+    - As a final step I brought the brightness down to create a beautiful complementing secondary color.
+    ![Secondary Color](assets/images-readme/color-secondary-figma.png)
+
+    - Variations of both the primary and secondary color were made for the text, form backgrounds and web page sections backgrounds. These were all tested for accessibility using the [WebAIM color contrast checker](https://webaim.org/resources/contrastchecker/).
+
+- The [Material Design Color Tool](https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=E91E63&secondary.color=00ACC1) was used to assess the primary and secondary colors accessibility.
+
+    - The custom UI tool displays the primary and secondary color choice:
+    ![colors color tool](assets/images-readme/colors-color-tool.png)
+
+    - The accessibility UI tool display the primary and secondary text combinations legibility: 
+    ![colors accessibility tool](assets/images-readme/colors-accessibility.png)
+
+
 ## Features
 
 ### Existing Features
